@@ -1,0 +1,104 @@
+# Hi, I'm Neha Dhiman 👋
+
+### 🚀 DevOps Engineer (Fresher) | Career Transition from Sales | Remote-Ready
+
+I'm a DevOps Engineer in transition with **hands-on experience in Git, Linux, AWS, Docker, Jenkins, CI/CD, and automation scripting**. I bring **3 years of sales experience** working in client-facing roles, which helps me collaborate effectively, understand business needs, and communicate clearly with technical and non-technical teams.
+
+I'm actively building real-world DevOps projects and preparing for roles at **BairesDev, Turing, and other remote-friendly tech companies.**
+
+---
+
+## 🔧 Tech Stack & Tools
+
+**Languages:**
+
+* Bash/Shell Scripting
+* YAML
+* Python (beginner)
+
+**DevOps Tools:**
+
+* Git & GitHub
+* Jenkins
+* Docker
+* Kubernetes (beginner)
+* Terraform (beginner)
+
+**Cloud:**
+
+* AWS (EC2, S3, IAM, VPC, CloudWatch, RDS)
+
+**Monitoring:**
+
+* Prometheus & Grafana (learning)
+
+**Other:**
+
+* Linux Administration
+* CI/CD Pipelines
+* Agile & Scrum
+
+---
+
+## 📁 Projects
+
+### **1. CI/CD Pipeline with Jenkins + Docker + GitHub**
+
+Automated a CI/CD pipeline where code pushed to GitHub triggers Jenkins → builds Docker image → pushes to DockerHub → deploys to server.
+
+👉 *Repo link coming soon*
+
+---
+
+### **2. Kubernetes Deployment of a Multi-Service App**
+
+Deployed a microservices-based application on Kubernetes using Deployment, Service, and Ingress.
+
+👉 *Repo link coming soon*
+
+---
+
+### **3. AWS 3-Tier Architecture Project**
+
+Built a cloud-based web app using EC2, RDS, Load Balancer, and S3 with IAM-based access.
+
+👉 *Repo link coming soon*
+
+---
+
+### **4. Shell Scripting Automation**
+
+Scripts for log monitoring, backups, Docker restarts, and automation tasks.
+
+👉 *Repo link coming soon*
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Jenkins Pipelines
+* Kubernetes Ingress & Helm
+* Cloud cost optimization
+* Terraform IaC
+
+---
+
+## 🧩 How My Sales Background Helps in DevOps
+
+* Strong client communication
+* Problem-solving mindset
+* Ability to work under pressure
+* Experience with CRM & workflow automation
+* Cross-team collaboration
+
+---
+
+## 📬 Connect with Me
+
+**Email:** [dneha6430@gmail.com](mailto:dneha6430@gmail.com)
+**LinkedIn:** *Coming soon*
+**Location:** Delhi, India (Open to Remote Roles)
+
+---
+
+⭐ *If you like my work, feel free to star my repositories or reach out for collaboration!*
