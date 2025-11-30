@@ -40,39 +40,6 @@ I'm actively building real-world DevOps projects and preparing for roles at **Ba
 
 ---
 
-## 📁 Projects
-
-### **1. CI/CD Pipeline with Jenkins + Docker + GitHub**
-
-Automated a CI/CD pipeline where code pushed to GitHub triggers Jenkins → builds Docker image → pushes to DockerHub → deploys to server.
-
-👉 *Repo link coming soon*
-
----
-
-### **2. Kubernetes Deployment of a Multi-Service App**
-
-Deployed a microservices-based application on Kubernetes using Deployment, Service, and Ingress.
-
-👉 *Repo link coming soon*
-
----
-
-### **3. AWS 3-Tier Architecture Project**
-
-Built a cloud-based web app using EC2, RDS, Load Balancer, and S3 with IAM-based access.
-
-👉 *Repo link coming soon*
-
----
-
-### **4. Shell Scripting Automation**
-
-Scripts for log monitoring, backups, Docker restarts, and automation tasks.
-
-👉 *Repo link coming soon*
-
----
 
 ## 🌱 Currently Learning
 
